@@ -135,7 +135,7 @@ input:checked+.slider::before {
     width: 85%;
     margin: 1px;
     position: relative;
-    font-size: clamp(20px, 2.5vw, 30px);
+    font-size: clamp(10px, 2.5vw, 30px);
     display: flex;
     justify-content: center;
 }
